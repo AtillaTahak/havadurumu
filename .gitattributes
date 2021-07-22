@@ -1,1 +1,2 @@
 *.* linguist-language=flutter
+project-docs/* linguist-documentation
